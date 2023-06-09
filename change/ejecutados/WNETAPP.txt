@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,WNETAPP
+Servicio,
+Remedy,
+Tecnico,Mayra Murcia
+email,mmurci01
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,ops-seg;admalma

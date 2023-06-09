@@ -1,0 +1,22 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,PAFWP01
+hostname_o,PAFWD01
+Nombre y Apellido,Jose Vidal
+cpu,2
+vRam,4096
+Ambiente,Calidad
+Repositorio,CSTS-Adecuacion
+Servicio,gestores en línea.
+emailSupervisor,mdelga
+emailTecnico,jvidal01
+Función,Aplicaciones
+Resource Pool,APRD
+Remedy,000000004447713
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk,20971520,Thin
+vdisk,20971520,Thin
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.

@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,SGDC_ALFRESCO_D1
+Nombre y Apellido,Jesus Gordillo
+vcpu,1
+arq,0
+vram,1
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,getion de documentos
+emailsuper,mdelga
+correo,jgordi01
+Función,Web
+Resource Pool,APRD
+Remedy,4385294
+tipo,template
+template,Template_Debian7
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

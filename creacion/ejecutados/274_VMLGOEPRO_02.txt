@@ -1,0 +1,18 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,VMLGOEPRO_02
+hostname_o,VMLGOEPRO_01
+Nombre y Apellido,Marbel Delgado
+cpu,2
+vRam,4096
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,plataforma cne
+emailSupervisor,eistur01
+emailTecnico,mdelga
+Función,App + Base de Datos
+Resource Pool,APRD
+Remedy,000000004251128
+Network Adapter 1,VLAN16
+vdisk,20971520,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad

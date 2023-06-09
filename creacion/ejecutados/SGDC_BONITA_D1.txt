@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,SGDC_BONITA_D1
+Nombre y Apellido,William Tellez
+vcpu,0
+arq,0
+vram,0
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,gestion de documento
+emailsuper,mdelga
+correo,wtellez
+Función,Web
+Resource Pool,APRD
+Remedy,4385289
+tipo,template
+template,Template_Debian7
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

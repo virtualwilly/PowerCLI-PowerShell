@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,PCCZCLT1
+Nombre y Apellido,Sheyla Marchan
+vcpu,0
+arq,0
+vram,0
+Ambiente,Calidad
+Repositorio,CSTS-Adecuacion
+Servicio,aplicación zeo proyecto portal
+emailsuper,mdelga
+correo,smarch01
+Función,Aplicaciones
+Resource Pool,ONoPRD
+Remedy,4534099
+tipo,template
+template,Template_Debian7
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

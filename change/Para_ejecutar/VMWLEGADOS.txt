@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,VMWLEGADOS
+Nombre y Apellido,William Tellez
+vcpu,1
+arq,0
+vram,1
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,interfaces con legados cantv
+emailsuper,mdelga
+correo,opere1
+Función,Aplicaciones
+Resource Pool,APRD
+Remedy,4428116
+tipo,template
+template,Template_w2k8Std_64R2
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

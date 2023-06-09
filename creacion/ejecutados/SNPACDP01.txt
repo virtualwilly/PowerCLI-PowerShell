@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_origen,SNPACDP4
+hostname_clon,SNPACDP01
+Nombre y Apellido,William Tellez
+vcpu,0
+arq,0
+vram,0
+Ambiente,Produccion
+Repositorio,CSTS-Windows
+Servicio,pruebas de conectividad mpsanp
+emailsuper,epere6
+correo,wtellez
+Funcion,Aplicaciones
+Resource Pool,OPRD
+Remedy,4479338
+tipo,clon_igual
+fuente,Apoyo a la Operacion
+template,0
+cluster,0
+Network Adapter,0
+vdisk,0

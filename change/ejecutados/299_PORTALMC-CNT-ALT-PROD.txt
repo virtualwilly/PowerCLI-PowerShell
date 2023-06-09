@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,PORTALMC-CNT-ALT-PROD
+hostname_o,PORTALMC
+Nombre y Apellido,Marbel Delgado
+cpu,2
+vRam,4096
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,plataforma corporativa de seguridad
+emailSupervisor,eistur01
+emailTecnico,mdelga
+Función,Web + App + BD
+Resource Pool,APRD
+Remedy,4558019
+tipo,clon
+Network Adapter 1,VLAN10
+Network Adapter 2,VLAN204
+vdisk,35651584,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion anexa correo del Coordinador de CCYDP o del Gerente aprobando un espacio mayor a 25 Gb.

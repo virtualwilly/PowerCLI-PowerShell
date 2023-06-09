@@ -1,0 +1,870 @@
+07/23/2014 12:01:12 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt04. -------------
+07/23/2014 12:01:12 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:01:12 : INFO: Se prepara para migrar el servidor Backupgenesys
+07/23/2014 12:01:16 : INFO: Levantamos la información y el servidor Backupgenesys se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:01:16 : INFO: Se procederá a realizar el movimiento del servidor Backupgenesys
+07/23/2014 12:02:35 : INFO: El servidor Backupgenesys fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:02:35 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:02:35 : INFO: Se prepara para migrar el servidor labalpha01
+07/23/2014 12:02:37 : INFO: Levantamos la información y el servidor labalpha01 se encuentra en el esxi esxicnt10.cantv.com.ve
+07/23/2014 12:02:37 : INFO: Se procederá a realizar el movimiento del servidor labalpha01
+07/23/2014 12:04:06 : INFO: El servidor labalpha01 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:04:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:04:06 : INFO: Se prepara para migrar el servidor WMonitor
+07/23/2014 12:04:08 : INFO: Levantamos la información y el servidor WMonitor se encuentra en el esxi esxicnt10.cantv.com.ve
+07/23/2014 12:04:08 : INFO: Se procederá a realizar el movimiento del servidor WMonitor
+07/23/2014 12:04:28 : INFO: El servidor WMonitor fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:04:28 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:04:28 : INFO: Se prepara para migrar el servidor vmwareMA
+07/23/2014 12:04:31 : INFO: Levantamos la información y el servidor vmwareMA se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:04:31 : INFO: Se procederá a realizar el movimiento del servidor vmwareMA
+07/23/2014 12:04:49 : INFO: El servidor vmwareMA fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:04:49 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:04:49 : INFO: Se prepara para migrar el servidor w2k3portalasp03
+07/23/2014 12:04:51 : INFO: Levantamos la información y el servidor w2k3portalasp03 se encuentra en el esxi esxicnt10.cantv.com.ve
+07/23/2014 12:04:51 : INFO: Se procederá a realizar el movimiento del servidor w2k3portalasp03
+07/23/2014 12:05:16 : INFO: El servidor w2k3portalasp03 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:05:16 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:09:08 : INFO: Se prepara para migrar el servidor QAinter
+07/23/2014 12:09:11 : INFO: Levantamos la información y el servidor QAinter se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:09:11 : INFO: Se procederá a realizar el movimiento del servidor QAinter
+07/23/2014 12:09:34 : INFO: El servidor QAinter fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:09:34 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:09:34 : INFO: Se prepara para migrar el servidor CNTSADWAP02
+07/23/2014 12:09:36 : INFO: Levantamos la información y el servidor CNTSADWAP02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:09:36 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP02
+07/23/2014 12:10:06 : INFO: El servidor CNTSADWAP02 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:10:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:10:06 : INFO: Se prepara para migrar el servidor WFibra01
+07/23/2014 12:10:08 : INFO: Levantamos la información y el servidor WFibra01 se encuentra en el esxi esxicnt10.cantv.com.ve
+07/23/2014 12:10:08 : INFO: Se procederá a realizar el movimiento del servidor WFibra01
+07/23/2014 12:10:38 : INFO: El servidor WFibra01 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:10:38 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:10:38 : INFO: Se prepara para migrar el servidor RRHHETWEB
+07/23/2014 12:10:41 : INFO: Levantamos la información y el servidor RRHHETWEB se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:10:41 : INFO: Se procederá a realizar el movimiento del servidor RRHHETWEB
+07/23/2014 12:11:27 : INFO: El servidor RRHHETWEB fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:11:27 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:11:27 : INFO: Se prepara para migrar el servidor WNetApp
+07/23/2014 12:11:30 : INFO: Levantamos la información y el servidor WNetApp se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:11:30 : INFO: Se procederá a realizar el movimiento del servidor WNetApp
+07/23/2014 12:12:01 : INFO: El servidor WNetApp fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:12:01 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:12:32 : INFO: Se prepara para migrar el servidor WSUSCNT01
+07/23/2014 12:12:34 : INFO: Levantamos la información y el servidor WSUSCNT01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:12:34 : INFO: Se procederá a realizar el movimiento del servidor WSUSCNT01
+07/23/2014 12:16:02 : INFO: El servidor WSUSCNT01 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:16:02 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:16:02 : INFO: Se prepara para migrar el servidor CNTSADWAP06
+07/23/2014 12:16:04 : INFO: Levantamos la información y el servidor CNTSADWAP06 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:16:04 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP06
+07/23/2014 12:16:31 : INFO: El servidor CNTSADWAP06 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:16:31 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:16:31 : INFO: Se prepara para migrar el servidor EMCNS01
+07/23/2014 12:16:34 : INFO: Levantamos la información y el servidor EMCNS01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:16:34 : INFO: Se procederá a realizar el movimiento del servidor EMCNS01
+07/23/2014 12:17:02 : INFO: El servidor EMCNS01 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:17:02 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:17:02 : INFO: Se prepara para migrar el servidor Medios10
+07/23/2014 12:17:04 : INFO: Levantamos la información y el servidor Medios10 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:17:04 : INFO: Se procederá a realizar el movimiento del servidor Medios10
+07/23/2014 12:17:33 : INFO: El servidor Medios10 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:17:33 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:17:33 : INFO: Se prepara para migrar el servidor W2K3AUTOAUDIT
+07/23/2014 12:17:35 : INFO: Levantamos la información y el servidor W2K3AUTOAUDIT se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:17:35 : INFO: Se procederá a realizar el movimiento del servidor W2K3AUTOAUDIT
+07/23/2014 12:18:06 : INFO: El servidor W2K3AUTOAUDIT fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:18:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:18:20 : INFO: Se prepara para migrar el servidor Labalpha02
+07/23/2014 12:18:22 : INFO: Levantamos la información y el servidor Labalpha02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:18:22 : INFO: Se procederá a realizar el movimiento del servidor Labalpha02
+07/23/2014 12:18:50 : INFO: El servidor Labalpha02 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:18:50 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:18:50 : INFO: Se prepara para migrar el servidor LABALPHA1
+07/23/2014 12:18:52 : INFO: Levantamos la información y el servidor LABALPHA1 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:18:52 : INFO: Se procederá a realizar el movimiento del servidor LABALPHA1
+07/23/2014 12:19:19 : INFO: El servidor LABALPHA1 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:19:19 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:19:19 : INFO: Se prepara para migrar el servidor WPATROL
+07/23/2014 12:19:22 : INFO: Levantamos la información y el servidor WPATROL se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:19:22 : INFO: Se procederá a realizar el movimiento del servidor WPATROL
+07/23/2014 12:19:52 : INFO: El servidor WPATROL fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:19:52 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:19:52 : INFO: Se prepara para migrar el servidor Wnetappfs03
+07/23/2014 12:19:54 : INFO: Levantamos la información y el servidor Wnetappfs03 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:19:54 : INFO: Se procederá a realizar el movimiento del servidor Wnetappfs03
+07/23/2014 12:20:21 : INFO: El servidor Wnetappfs03 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:20:21 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:20:21 : INFO: Se prepara para migrar el servidor w2k3portalasp01
+07/23/2014 12:20:24 : INFO: Levantamos la información y el servidor w2k3portalasp01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:20:24 : INFO: Se procederá a realizar el movimiento del servidor w2k3portalasp01
+07/23/2014 12:21:26 : INFO: El servidor w2k3portalasp01 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:21:26 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:23:36 : INFO: Se prepara para migrar el servidor LicenseServer2
+07/23/2014 12:23:39 : INFO: Levantamos la información y el servidor LicenseServer2 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:23:39 : INFO: Se procederá a realizar el movimiento del servidor LicenseServer2
+07/23/2014 12:27:40 : ERROR: El servidor LicenseServer2 no fue migrado satisfactoriamente al ESXi esxicnt04, REVISAR POR FAVOR.
+07/23/2014 12:27:40 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:27:40 : INFO: Se prepara para migrar el servidor w2k3ICC
+07/23/2014 12:27:43 : INFO: Levantamos la información y el servidor w2k3ICC se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:27:43 : INFO: Se procederá a realizar el movimiento del servidor w2k3ICC
+07/23/2014 12:28:09 : INFO: El servidor w2k3ICC fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:28:09 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:28:09 : INFO: Se prepara para migrar el servidor W2K3CTXDC02
+07/23/2014 12:28:11 : INFO: Levantamos la información y el servidor W2K3CTXDC02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:28:11 : INFO: Se procederá a realizar el movimiento del servidor W2K3CTXDC02
+07/23/2014 12:28:38 : INFO: El servidor W2K3CTXDC02 fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:28:38 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:28:38 : INFO: Se prepara para migrar el servidor w2kmfad
+07/23/2014 12:28:40 : INFO: Levantamos la información y el servidor w2kmfad se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:28:40 : INFO: Se procederá a realizar el movimiento del servidor w2kmfad
+07/23/2014 12:29:12 : INFO: El servidor w2kmfad fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:29:12 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:29:12 : INFO: Se prepara para migrar el servidor Sapmobile
+07/23/2014 12:29:15 : INFO: Levantamos la información y el servidor Sapmobile se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:29:15 : INFO: Se procederá a realizar el movimiento del servidor Sapmobile
+07/23/2014 12:29:46 : INFO: El servidor Sapmobile fue migrado satisfactoriamente al ESXi esxicnt04
+07/23/2014 12:29:46 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:32:06 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt10. -------------
+07/23/2014 12:32:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:32:06 : INFO: Se prepara para migrar el servidor DEVintra
+07/23/2014 12:32:08 : INFO: Levantamos la información y el servidor DEVintra se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:32:08 : INFO: Se procederá a realizar el movimiento del servidor DEVintra
+07/23/2014 12:32:25 : INFO: El servidor DEVintra fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:32:25 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:32:25 : INFO: Se prepara para migrar el servidor WNetappAI01
+07/23/2014 12:32:28 : INFO: Levantamos la información y el servidor WNetappAI01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:32:28 : INFO: Se procederá a realizar el movimiento del servidor WNetappAI01
+07/23/2014 12:32:45 : INFO: El servidor WNetappAI01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:32:45 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:32:45 : INFO: Se prepara para migrar el servidor WNetappAI02
+07/23/2014 12:32:47 : INFO: Levantamos la información y el servidor WNetappAI02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:32:47 : INFO: Se procederá a realizar el movimiento del servidor WNetappAI02
+07/23/2014 12:33:04 : INFO: El servidor WNetappAI02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:33:04 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:33:04 : INFO: Se prepara para migrar el servidor PrnCantvSRL
+07/23/2014 12:33:06 : INFO: Levantamos la información y el servidor PrnCantvSRL se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:33:06 : INFO: Se procederá a realizar el movimiento del servidor PrnCantvSRL
+07/23/2014 12:33:22 : INFO: El servidor PrnCantvSRL fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:33:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:33:22 : INFO: Se prepara para migrar el servidor WSUSCNT02
+07/23/2014 12:33:24 : INFO: Levantamos la información y el servidor WSUSCNT02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:33:24 : INFO: Se procederá a realizar el movimiento del servidor WSUSCNT02
+07/23/2014 12:33:42 : INFO: El servidor WSUSCNT02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:33:42 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:33:43 : INFO: Se prepara para migrar el servidor backuptest
+07/23/2014 12:33:45 : INFO: Levantamos la información y el servidor backuptest se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:33:45 : INFO: Se procederá a realizar el movimiento del servidor backuptest
+07/23/2014 12:34:02 : INFO: El servidor backuptest fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:34:02 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:34:02 : INFO: Se prepara para migrar el servidor SPPSIntra02
+07/23/2014 12:34:04 : INFO: Levantamos la información y el servidor SPPSIntra02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:34:04 : INFO: Se procederá a realizar el movimiento del servidor SPPSIntra02
+07/23/2014 12:34:22 : INFO: El servidor SPPSIntra02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:34:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:34:22 : INFO: Se prepara para migrar el servidor SFTPINTRA01
+07/23/2014 12:34:24 : INFO: Levantamos la información y el servidor SFTPINTRA01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:34:24 : INFO: Se procederá a realizar el movimiento del servidor SFTPINTRA01
+07/23/2014 12:34:35 : ERROR: El servidor SFTPINTRA01 no fue migrado satisfactoriamente al ESXi esxicnt10, REVISAR POR FAVOR.
+07/23/2014 12:34:35 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:34:35 : INFO: Se prepara para migrar el servidor CNTSADWAP04
+07/23/2014 12:34:37 : INFO: Levantamos la información y el servidor CNTSADWAP04 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:34:37 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP04
+07/23/2014 12:34:54 : INFO: El servidor CNTSADWAP04 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:34:54 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:34:54 : INFO: Se prepara para migrar el servidor VMWSCR01
+07/23/2014 12:34:57 : INFO: Levantamos la información y el servidor VMWSCR01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:34:57 : INFO: Se procederá a realizar el movimiento del servidor VMWSCR01
+07/23/2014 12:35:19 : INFO: El servidor VMWSCR01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:35:19 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:35:19 : INFO: Se prepara para migrar el servidor CANTVWEB02
+07/23/2014 12:35:21 : INFO: Levantamos la información y el servidor CANTVWEB02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:35:21 : INFO: Se procederá a realizar el movimiento del servidor CANTVWEB02
+07/23/2014 12:35:39 : INFO: El servidor CANTVWEB02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:35:39 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:35:39 : INFO: Se prepara para migrar el servidor CRMREPP2
+07/23/2014 12:35:41 : INFO: Levantamos la información y el servidor CRMREPP2 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:35:41 : INFO: Se procederá a realizar el movimiento del servidor CRMREPP2
+07/23/2014 12:36:02 : INFO: El servidor CRMREPP2 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:36:02 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:36:02 : INFO: Se prepara para migrar el servidor APPSGO01
+07/23/2014 12:36:04 : INFO: Levantamos la información y el servidor APPSGO01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:36:04 : INFO: Se procederá a realizar el movimiento del servidor APPSGO01
+07/23/2014 12:36:30 : INFO: El servidor APPSGO01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:36:30 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:36:30 : INFO: Se prepara para migrar el servidor CALISTO
+07/23/2014 12:36:32 : INFO: Levantamos la información y el servidor CALISTO se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:36:32 : INFO: Se procederá a realizar el movimiento del servidor CALISTO
+07/23/2014 12:36:55 : INFO: El servidor CALISTO fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:36:55 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:36:55 : INFO: Se prepara para migrar el servidor PATROLBEM-01
+07/23/2014 12:36:57 : INFO: Levantamos la información y el servidor PATROLBEM-01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:36:57 : INFO: Se procederá a realizar el movimiento del servidor PATROLBEM-01
+07/23/2014 12:37:21 : INFO: El servidor PATROLBEM-01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:37:21 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:37:21 : INFO: Se prepara para migrar el servidor VMWEDICM01
+07/23/2014 12:37:23 : INFO: Levantamos la información y el servidor VMWEDICM01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:37:24 : INFO: Se procederá a realizar el movimiento del servidor VMWEDICM01
+07/23/2014 12:37:47 : INFO: El servidor VMWEDICM01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:37:47 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:37:47 : INFO: Se prepara para migrar el servidor WCRDEV01
+07/23/2014 12:37:49 : INFO: Levantamos la información y el servidor WCRDEV01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:37:49 : INFO: Se procederá a realizar el movimiento del servidor WCRDEV01
+07/23/2014 12:38:09 : INFO: El servidor WCRDEV01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:38:09 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:38:09 : INFO: Se prepara para migrar el servidor WSUSCNT03
+07/23/2014 12:38:11 : INFO: Levantamos la información y el servidor WSUSCNT03 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:38:11 : INFO: Se procederá a realizar el movimiento del servidor WSUSCNT03
+07/23/2014 12:38:32 : INFO: El servidor WSUSCNT03 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:38:32 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:38:32 : INFO: Se prepara para migrar el servidor CALIRROE
+07/23/2014 12:38:34 : INFO: Levantamos la información y el servidor CALIRROE se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:38:34 : INFO: Se procederá a realizar el movimiento del servidor CALIRROE
+07/23/2014 12:38:54 : INFO: El servidor CALIRROE fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:38:54 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:38:54 : INFO: Se prepara para migrar el servidor BLACKBERRY01
+07/23/2014 12:38:56 : INFO: Levantamos la información y el servidor BLACKBERRY01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:38:56 : INFO: Se procederá a realizar el movimiento del servidor BLACKBERRY01
+07/23/2014 12:39:16 : INFO: El servidor BLACKBERRY01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:39:16 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:40:48 : INFO: Se prepara para migrar el servidor VMWEDICM02
+07/23/2014 12:40:50 : INFO: Levantamos la información y el servidor VMWEDICM02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:40:50 : INFO: Se procederá a realizar el movimiento del servidor VMWEDICM02
+07/23/2014 12:41:10 : INFO: El servidor VMWEDICM02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:41:10 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:41:10 : INFO: Se prepara para migrar el servidor WMERBLADE03
+07/23/2014 12:41:12 : INFO: Levantamos la información y el servidor WMERBLADE03 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:41:12 : INFO: Se procederá a realizar el movimiento del servidor WMERBLADE03
+07/23/2014 12:41:32 : INFO: El servidor WMERBLADE03 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:41:32 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:41:32 : INFO: Se prepara para migrar el servidor SADWAPWEB
+07/23/2014 12:41:35 : INFO: Levantamos la información y el servidor SADWAPWEB se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:41:35 : INFO: Se procederá a realizar el movimiento del servidor SADWAPWEB
+07/23/2014 12:45:55 : ERROR: El servidor SADWAPWEB no fue migrado satisfactoriamente al ESXi esxicnt10, REVISAR POR FAVOR.
+07/23/2014 12:45:55 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:45:55 : INFO: Se prepara para migrar el servidor PRNMOV02-NEW
+07/23/2014 12:45:57 : INFO: Levantamos la información y el servidor PRNMOV02-NEW se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:45:57 : INFO: Se procederá a realizar el movimiento del servidor PRNMOV02-NEW
+07/23/2014 12:46:16 : INFO: El servidor PRNMOV02-NEW fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:46:16 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:46:16 : INFO: Se prepara para migrar el servidor CNTSADWAP05
+07/23/2014 12:46:18 : INFO: Levantamos la información y el servidor CNTSADWAP05 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:46:18 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP05
+07/23/2014 12:46:35 : INFO: El servidor CNTSADWAP05 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:46:35 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:46:35 : INFO: Se prepara para migrar el servidor CNTSADWAP08
+07/23/2014 12:46:38 : INFO: Levantamos la información y el servidor CNTSADWAP08 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:46:38 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP08
+07/23/2014 12:46:57 : INFO: El servidor CNTSADWAP08 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:46:57 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:46:57 : INFO: Se prepara para migrar el servidor GORVM02
+07/23/2014 12:46:59 : INFO: Levantamos la información y el servidor GORVM02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:46:59 : INFO: Se procederá a realizar el movimiento del servidor GORVM02
+07/23/2014 12:47:20 : INFO: El servidor GORVM02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:47:20 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:47:20 : INFO: Se prepara para migrar el servidor PRNCANTVCNT
+07/23/2014 12:47:22 : INFO: Levantamos la información y el servidor PRNCANTVCNT se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:47:22 : INFO: Se procederá a realizar el movimiento del servidor PRNCANTVCNT
+07/23/2014 12:47:41 : INFO: El servidor PRNCANTVCNT fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:47:41 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:47:41 : INFO: Se prepara para migrar el servidor SAPCANTV01
+07/23/2014 12:47:43 : INFO: Levantamos la información y el servidor SAPCANTV01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:47:43 : INFO: Se procederá a realizar el movimiento del servidor SAPCANTV01
+07/23/2014 12:48:01 : INFO: El servidor SAPCANTV01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:48:01 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:48:01 : INFO: Se prepara para migrar el servidor NTITSAG1
+07/23/2014 12:48:03 : INFO: Levantamos la información y el servidor NTITSAG1 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:48:03 : INFO: Se procederá a realizar el movimiento del servidor NTITSAG1
+07/23/2014 12:48:20 : INFO: El servidor NTITSAG1 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:48:20 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:48:20 : INFO: Se prepara para migrar el servidor SQLTRANS01
+07/23/2014 12:48:23 : INFO: Levantamos la información y el servidor SQLTRANS01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:48:23 : INFO: Se procederá a realizar el movimiento del servidor SQLTRANS01
+07/23/2014 12:48:41 : INFO: El servidor SQLTRANS01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:48:41 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:48:41 : INFO: Se prepara para migrar el servidor GORVM04
+07/23/2014 12:48:43 : INFO: Levantamos la información y el servidor GORVM04 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:48:43 : INFO: Se procederá a realizar el movimiento del servidor GORVM04
+07/23/2014 12:49:02 : INFO: El servidor GORVM04 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:49:03 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:49:03 : INFO: Se prepara para migrar el servidor NTITSWG1
+07/23/2014 12:49:05 : INFO: Levantamos la información y el servidor NTITSWG1 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:49:05 : INFO: Se procederá a realizar el movimiento del servidor NTITSWG1
+07/23/2014 12:49:23 : INFO: El servidor NTITSWG1 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:49:23 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:49:23 : INFO: Se prepara para migrar el servidor Alpha02
+07/23/2014 12:49:25 : INFO: Levantamos la información y el servidor Alpha02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:49:25 : INFO: Se procederá a realizar el movimiento del servidor Alpha02
+07/23/2014 12:49:44 : INFO: El servidor Alpha02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:49:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:49:44 : INFO: Se prepara para migrar el servidor RRHHET
+07/23/2014 12:49:47 : INFO: Levantamos la información y el servidor RRHHET se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:49:47 : INFO: Se procederá a realizar el movimiento del servidor RRHHET
+07/23/2014 12:50:06 : INFO: El servidor RRHHET fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:50:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:50:06 : INFO: Se prepara para migrar el servidor CNTSADWAP01
+07/23/2014 12:50:08 : INFO: Levantamos la información y el servidor CNTSADWAP01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:50:08 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP01
+07/23/2014 12:50:25 : INFO: El servidor CNTSADWAP01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:50:25 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:50:25 : INFO: Se prepara para migrar el servidor COMPCANTVCOM01
+07/23/2014 12:50:28 : INFO: Levantamos la información y el servidor COMPCANTVCOM01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:50:28 : INFO: Se procederá a realizar el movimiento del servidor COMPCANTVCOM01
+07/23/2014 12:50:44 : INFO: El servidor COMPCANTVCOM01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:50:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:50:44 : INFO: Se prepara para migrar el servidor WMedios25
+07/23/2014 12:50:47 : INFO: Levantamos la información y el servidor WMedios25 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:50:47 : INFO: Se procederá a realizar el movimiento del servidor WMedios25
+07/23/2014 12:51:06 : INFO: El servidor WMedios25 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:51:06 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:51:06 : INFO: Se prepara para migrar el servidor CNTSADWAPWEB
+07/23/2014 12:51:08 : INFO: Levantamos la información y el servidor CNTSADWAPWEB se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:51:08 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAPWEB
+07/23/2014 12:51:26 : INFO: El servidor CNTSADWAPWEB fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:51:26 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:51:26 : INFO: Se prepara para migrar el servidor w2k3portalasp02
+07/23/2014 12:51:28 : INFO: Levantamos la información y el servidor w2k3portalasp02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:51:28 : INFO: Se procederá a realizar el movimiento del servidor w2k3portalasp02
+07/23/2014 12:51:45 : INFO: El servidor w2k3portalasp02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:51:45 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:53:23 : INFO: Se prepara para migrar el servidor Corpintra05
+07/23/2014 12:53:25 : INFO: Levantamos la información y el servidor Corpintra05 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:53:25 : INFO: Se procederá a realizar el movimiento del servidor Corpintra05
+07/23/2014 12:53:44 : INFO: El servidor Corpintra05 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:53:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:53:44 : INFO: Se prepara para migrar el servidor w2k3interonline
+07/23/2014 12:53:46 : INFO: Levantamos la información y el servidor w2k3interonline se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:53:46 : INFO: Se procederá a realizar el movimiento del servidor w2k3interonline
+07/23/2014 12:54:05 : INFO: El servidor w2k3interonline fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:54:05 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:54:05 : INFO: Se prepara para migrar el servidor CNTSADWAP07
+07/23/2014 12:54:08 : INFO: Levantamos la información y el servidor CNTSADWAP07 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:54:08 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP07
+07/23/2014 12:54:29 : INFO: El servidor CNTSADWAP07 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:54:29 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:54:30 : INFO: Se prepara para migrar el servidor DOCUSHARE
+07/23/2014 12:54:32 : INFO: Levantamos la información y el servidor DOCUSHARE se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:54:32 : INFO: Se procederá a realizar el movimiento del servidor DOCUSHARE
+07/23/2014 12:54:51 : INFO: El servidor DOCUSHARE fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:54:51 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:54:51 : INFO: Se prepara para migrar el servidor GORVM03
+07/23/2014 12:54:53 : INFO: Levantamos la información y el servidor GORVM03 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:54:53 : INFO: Se procederá a realizar el movimiento del servidor GORVM03
+07/23/2014 12:55:13 : INFO: El servidor GORVM03 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:55:13 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:55:13 : INFO: Se prepara para migrar el servidor PRNMOV01
+07/23/2014 12:55:15 : INFO: Levantamos la información y el servidor PRNMOV01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:55:15 : INFO: Se procederá a realizar el movimiento del servidor PRNMOV01
+07/23/2014 12:55:32 : INFO: El servidor PRNMOV01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:55:32 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:55:32 : INFO: Se prepara para migrar el servidor WMedios24
+07/23/2014 12:55:34 : INFO: Levantamos la información y el servidor WMedios24 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:55:34 : INFO: Se procederá a realizar el movimiento del servidor WMedios24
+07/23/2014 12:55:53 : INFO: El servidor WMedios24 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:55:53 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:55:53 : INFO: Se prepara para migrar el servidor PRNCANTVIOX
+07/23/2014 12:55:55 : INFO: Levantamos la información y el servidor PRNCANTVIOX se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:55:55 : INFO: Se procederá a realizar el movimiento del servidor PRNCANTVIOX
+07/23/2014 12:56:14 : INFO: El servidor PRNCANTVIOX fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:56:14 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:56:14 : INFO: Se prepara para migrar el servidor DEVinter
+07/23/2014 12:56:17 : INFO: Levantamos la información y el servidor DEVinter se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:56:17 : INFO: Se procederá a realizar el movimiento del servidor DEVinter
+07/23/2014 12:56:36 : INFO: El servidor DEVinter fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:56:36 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:56:36 : INFO: Se prepara para migrar el servidor GESTORZTE
+07/23/2014 12:56:38 : INFO: Levantamos la información y el servidor GESTORZTE se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:56:38 : INFO: Se procederá a realizar el movimiento del servidor GESTORZTE
+07/23/2014 12:56:55 : INFO: El servidor GESTORZTE fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:56:55 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:56:55 : INFO: Se prepara para migrar el servidor QAintra
+07/23/2014 12:56:57 : INFO: Levantamos la información y el servidor QAintra se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:56:57 : INFO: Se procederá a realizar el movimiento del servidor QAintra
+07/23/2014 12:57:16 : INFO: El servidor QAintra fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:57:16 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:57:16 : INFO: Se prepara para migrar el servidor CRMREPP1
+07/23/2014 12:57:18 : INFO: Levantamos la información y el servidor CRMREPP1 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:57:18 : INFO: Se procederá a realizar el movimiento del servidor CRMREPP1
+07/23/2014 12:57:37 : INFO: El servidor CRMREPP1 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:57:37 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:57:37 : INFO: Se prepara para migrar el servidor GORVM01
+07/23/2014 12:57:39 : INFO: Levantamos la información y el servidor GORVM01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:57:39 : INFO: Se procederá a realizar el movimiento del servidor GORVM01
+07/23/2014 12:57:58 : INFO: El servidor GORVM01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:57:58 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:57:58 : INFO: Se prepara para migrar el servidor Alpha01
+07/23/2014 12:58:01 : INFO: Levantamos la información y el servidor Alpha01 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 12:58:01 : INFO: Se procederá a realizar el movimiento del servidor Alpha01
+07/23/2014 12:58:21 : INFO: El servidor Alpha01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:58:21 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:58:21 : INFO: Se prepara para migrar el servidor CTXCLUSTER
+07/23/2014 12:58:23 : INFO: Levantamos la información y el servidor CTXCLUSTER se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:58:23 : INFO: Se procederá a realizar el movimiento del servidor CTXCLUSTER
+07/23/2014 12:58:42 : INFO: El servidor CTXCLUSTER fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:58:42 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:58:42 : INFO: Se prepara para migrar el servidor CNTSADWAP03
+07/23/2014 12:58:45 : INFO: Levantamos la información y el servidor CNTSADWAP03 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:58:45 : INFO: Se procederá a realizar el movimiento del servidor CNTSADWAP03
+07/23/2014 12:59:05 : INFO: El servidor CNTSADWAP03 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:59:05 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:59:05 : INFO: Se prepara para migrar el servidor W2K3APP02
+07/23/2014 12:59:07 : INFO: Levantamos la información y el servidor W2K3APP02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 12:59:07 : INFO: Se procederá a realizar el movimiento del servidor W2K3APP02
+07/23/2014 12:59:24 : INFO: El servidor W2K3APP02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:59:24 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:59:24 : INFO: Se prepara para migrar el servidor alfha03
+07/23/2014 12:59:27 : INFO: Levantamos la información y el servidor alfha03 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 12:59:27 : INFO: Se procederá a realizar el movimiento del servidor alfha03
+07/23/2014 12:59:46 : INFO: El servidor alfha03 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 12:59:46 : -------------------------------------------------------------------------------------------------------
+07/23/2014 12:59:46 : INFO: Se prepara para migrar el servidor WEBINTER01
+07/23/2014 12:59:48 : INFO: Levantamos la información y el servidor WEBINTER01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 12:59:48 : INFO: Se procederá a realizar el movimiento del servidor WEBINTER01
+07/23/2014 13:00:07 : INFO: El servidor WEBINTER01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:00:07 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:00:07 : INFO: Se prepara para migrar el servidor WEBINTER02
+07/23/2014 13:00:10 : INFO: Levantamos la información y el servidor WEBINTER02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:00:10 : INFO: Se procederá a realizar el movimiento del servidor WEBINTER02
+07/23/2014 13:00:30 : INFO: El servidor WEBINTER02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:00:30 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:00:58 : INFO: Se prepara para migrar el servidor EMCNS011
+07/23/2014 13:01:00 : INFO: Levantamos la información y el servidor EMCNS011 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:01:00 : INFO: Se procederá a realizar el movimiento del servidor EMCNS011
+07/23/2014 13:01:27 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt10. -------------
+07/23/2014 13:01:27 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:01:27 : INFO: Se prepara para migrar el servidor EMCNS011
+07/23/2014 13:01:29 : INFO: Levantamos la información y el servidor EMCNS011 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:01:30 : INFO: Se procederá a realizar el movimiento del servidor EMCNS011
+07/23/2014 13:01:48 : INFO: El servidor EMCNS011 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:01:48 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:01:48 : INFO: Se prepara para migrar el servidor MEDPECANTV02
+07/23/2014 13:01:51 : INFO: Levantamos la información y el servidor MEDPECANTV02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:01:51 : INFO: Se procederá a realizar el movimiento del servidor MEDPECANTV02
+07/23/2014 13:02:10 : INFO: El servidor MEDPECANTV02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:02:10 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:02:10 : INFO: Se prepara para migrar el servidor NTCAD01
+07/23/2014 13:02:12 : INFO: Levantamos la información y el servidor NTCAD01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:02:12 : INFO: Se procederá a realizar el movimiento del servidor NTCAD01
+07/23/2014 13:06:04 : INFO: El servidor NTCAD01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:06:04 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:06:04 : INFO: Se prepara para migrar el servidor CRMREPQA
+07/23/2014 13:06:07 : INFO: Levantamos la información y el servidor CRMREPQA se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:06:07 : INFO: Se procederá a realizar el movimiento del servidor CRMREPQA
+07/23/2014 13:06:26 : INFO: El servidor CRMREPQA fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:06:26 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:06:26 : INFO: Se prepara para migrar el servidor WvCenterCNT02
+07/23/2014 13:06:29 : INFO: Levantamos la información y el servidor WvCenterCNT02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:06:29 : INFO: Se procederá a realizar el movimiento del servidor WvCenterCNT02
+07/23/2014 13:06:49 : INFO: El servidor WvCenterCNT02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:06:49 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:06:49 : INFO: Se prepara para migrar el servidor CRMREPDEV
+07/23/2014 13:06:51 : INFO: Levantamos la información y el servidor CRMREPDEV se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:06:51 : INFO: Se procederá a realizar el movimiento del servidor CRMREPDEV
+07/23/2014 13:07:11 : INFO: El servidor CRMREPDEV fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:07:11 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:07:11 : INFO: Se prepara para migrar el servidor vCenter01
+07/23/2014 13:07:13 : INFO: Levantamos la información y el servidor vCenter01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:07:13 : INFO: Se procederá a realizar el movimiento del servidor vCenter01
+07/23/2014 13:07:44 : INFO: El servidor vCenter01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:07:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:07:44 : INFO: Se prepara para migrar el servidor TESTCMIX01VM
+07/23/2014 13:07:46 : INFO: Levantamos la información y el servidor TESTCMIX01VM se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:07:46 : INFO: Se procederá a realizar el movimiento del servidor TESTCMIX01VM
+07/23/2014 13:08:03 : INFO: El servidor TESTCMIX01VM fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:08:03 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:08:03 : INFO: Se prepara para migrar el servidor GBELINVP02
+07/23/2014 13:08:06 : INFO: Levantamos la información y el servidor GBELINVP02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:08:06 : INFO: Se procederá a realizar el movimiento del servidor GBELINVP02
+07/23/2014 13:08:22 : INFO: El servidor GBELINVP02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:08:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:08:22 : INFO: Se prepara para migrar el servidor CDDRPR01
+07/23/2014 13:08:25 : INFO: Levantamos la información y el servidor CDDRPR01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:08:25 : INFO: Se procederá a realizar el movimiento del servidor CDDRPR01
+07/23/2014 13:08:43 : INFO: El servidor CDDRPR01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:08:43 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:08:43 : INFO: Se prepara para migrar el servidor lab-inv
+07/23/2014 13:08:45 : INFO: Levantamos la información y el servidor lab-inv se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:08:45 : INFO: Se procederá a realizar el movimiento del servidor lab-inv
+07/23/2014 13:09:03 : INFO: El servidor lab-inv fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:09:03 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:09:03 : INFO: Se prepara para migrar el servidor CTXCLUSTER
+07/23/2014 13:09:05 : INFO: Levantamos la información y el servidor CTXCLUSTER se encuentra en el esxi esxicnt10.cantv.com.ve
+07/23/2014 13:09:05 : INFO: Se procederá a realizar el movimiento del servidor CTXCLUSTER
+07/23/2014 13:09:12 : INFO: El servidor CTXCLUSTER fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:09:12 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:09:12 : INFO: Se prepara para migrar el servidor VMLGOEDES_01
+07/23/2014 13:09:14 : INFO: Levantamos la información y el servidor VMLGOEDES_01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:09:14 : INFO: Se procederá a realizar el movimiento del servidor VMLGOEDES_01
+07/23/2014 13:09:37 : INFO: El servidor VMLGOEDES_01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:09:37 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:09:37 : INFO: Se prepara para migrar el servidor CDDRPR02
+07/23/2014 13:09:39 : INFO: Levantamos la información y el servidor CDDRPR02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:09:39 : INFO: Se procederá a realizar el movimiento del servidor CDDRPR02
+07/23/2014 13:10:02 : INFO: El servidor CDDRPR02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:10:02 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:10:02 : INFO: Se prepara para migrar el servidor CDBDQA01
+07/23/2014 13:10:05 : INFO: Levantamos la información y el servidor CDBDQA01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:10:05 : INFO: Se procederá a realizar el movimiento del servidor CDBDQA01
+07/23/2014 13:10:22 : INFO: El servidor CDBDQA01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:10:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:10:22 : INFO: Se prepara para migrar el servidor PATROLBMC
+07/23/2014 13:10:24 : INFO: Levantamos la información y el servidor PATROLBMC se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:10:24 : INFO: Se procederá a realizar el movimiento del servidor PATROLBMC
+07/23/2014 13:10:44 : INFO: El servidor PATROLBMC fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:10:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:10:44 : INFO: Se prepara para migrar el servidor gbelinvqa02
+07/23/2014 13:10:46 : INFO: Levantamos la información y el servidor gbelinvqa02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:10:46 : INFO: Se procederá a realizar el movimiento del servidor gbelinvqa02
+07/23/2014 13:11:03 : INFO: El servidor gbelinvqa02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:11:03 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:11:03 : INFO: Se prepara para migrar el servidor LDAP-SLAVE-2-PRO
+07/23/2014 13:11:06 : INFO: Levantamos la información y el servidor LDAP-SLAVE-2-PRO se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:11:06 : INFO: Se procederá a realizar el movimiento del servidor LDAP-SLAVE-2-PRO
+07/23/2014 13:11:24 : INFO: El servidor LDAP-SLAVE-2-PRO fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:11:24 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:11:24 : INFO: Se prepara para migrar el servidor VMLHCM01
+07/23/2014 13:11:27 : INFO: Levantamos la información y el servidor VMLHCM01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:11:27 : INFO: Se procederá a realizar el movimiento del servidor VMLHCM01
+07/23/2014 13:11:50 : INFO: El servidor VMLHCM01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:11:50 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:11:50 : INFO: Se prepara para migrar el servidor MSACALINC01
+07/23/2014 13:11:52 : INFO: Levantamos la información y el servidor MSACALINC01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:11:52 : INFO: Se procederá a realizar el movimiento del servidor MSACALINC01
+07/23/2014 13:12:11 : INFO: El servidor MSACALINC01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:12:11 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:13:09 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt10. -------------
+07/23/2014 13:13:09 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:13:09 : INFO: Se prepara para migrar el servidor MSACALINC02
+07/23/2014 13:13:11 : INFO: Levantamos la información y el servidor MSACALINC02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:13:11 : INFO: Se procederá a realizar el movimiento del servidor MSACALINC02
+07/23/2014 13:13:31 : INFO: El servidor MSACALINC02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:13:31 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:13:31 : INFO: Se prepara para migrar el servidor LDAP-SLAVE-1-PRO
+07/23/2014 13:13:33 : INFO: Levantamos la información y el servidor LDAP-SLAVE-1-PRO se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:13:33 : INFO: Se procederá a realizar el movimiento del servidor LDAP-SLAVE-1-PRO
+07/23/2014 13:13:52 : INFO: El servidor LDAP-SLAVE-1-PRO fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:13:52 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:13:52 : INFO: Se prepara para migrar el servidor CDDRQA01
+07/23/2014 13:13:54 : INFO: Levantamos la información y el servidor CDDRQA01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:13:54 : INFO: Se procederá a realizar el movimiento del servidor CDDRQA01
+07/23/2014 13:14:55 : INFO: El servidor CDDRQA01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:14:55 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:14:55 : INFO: Se prepara para migrar el servidor dhcp-corp-02
+07/23/2014 13:14:58 : INFO: Levantamos la información y el servidor dhcp-corp-02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:14:58 : INFO: Se procederá a realizar el movimiento del servidor dhcp-corp-02
+07/23/2014 13:16:30 : INFO: El servidor dhcp-corp-02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:16:30 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:16:30 : INFO: Se prepara para migrar el servidor CDPRPR02
+07/23/2014 13:16:32 : INFO: Levantamos la información y el servidor CDPRPR02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:16:32 : INFO: Se procederá a realizar el movimiento del servidor CDPRPR02
+07/23/2014 13:16:54 : INFO: El servidor CDPRPR02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:16:54 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:16:54 : INFO: Se prepara para migrar el servidor Empprod-01
+07/23/2014 13:16:56 : INFO: Levantamos la información y el servidor Empprod-01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:16:56 : INFO: Se procederá a realizar el movimiento del servidor Empprod-01
+07/23/2014 13:17:16 : INFO: El servidor Empprod-01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:17:16 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:17:16 : INFO: Se prepara para migrar el servidor GBELINVP01
+07/23/2014 13:17:18 : INFO: Levantamos la información y el servidor GBELINVP01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:17:18 : INFO: Se procederá a realizar el movimiento del servidor GBELINVP01
+07/23/2014 13:17:36 : INFO: El servidor GBELINVP01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:17:36 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:17:36 : INFO: Se prepara para migrar el servidor Dns-corp-dat-01
+07/23/2014 13:17:38 : INFO: Levantamos la información y el servidor Dns-corp-dat-01 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:17:38 : INFO: Se procederá a realizar el movimiento del servidor Dns-corp-dat-01
+07/23/2014 13:17:57 : INFO: El servidor Dns-corp-dat-01 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:17:57 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:17:57 : INFO: Se prepara para migrar el servidor VMSACASWEB
+07/23/2014 13:17:59 : INFO: Levantamos la información y el servidor VMSACASWEB se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:17:59 : INFO: Se procederá a realizar el movimiento del servidor VMSACASWEB
+07/23/2014 13:18:21 : INFO: El servidor VMSACASWEB fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:18:21 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:18:21 : INFO: Se prepara para migrar el servidor CDBDQA02
+07/23/2014 13:18:24 : INFO: Levantamos la información y el servidor CDBDQA02 se encuentra en el esxi esxicnt03.cantv.com.ve
+07/23/2014 13:18:24 : INFO: Se procederá a realizar el movimiento del servidor CDBDQA02
+07/23/2014 13:18:45 : INFO: El servidor CDBDQA02 fue migrado satisfactoriamente al ESXi esxicnt10
+07/23/2014 13:18:45 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:25:28 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt03. -------------
+07/23/2014 13:25:28 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:25:28 : INFO: Se prepara para migrar el servidor dhcp-corp-01
+07/23/2014 13:25:31 : INFO: Levantamos la información y el servidor dhcp-corp-01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:25:31 : INFO: Se procederá a realizar el movimiento del servidor dhcp-corp-01
+07/23/2014 13:25:52 : INFO: El servidor dhcp-corp-01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:25:52 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:25:52 : INFO: Se prepara para migrar el servidor VMDLIND01
+07/23/2014 13:25:54 : INFO: Levantamos la información y el servidor VMDLIND01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:25:54 : INFO: Se procederá a realizar el movimiento del servidor VMDLIND01
+07/23/2014 13:26:14 : INFO: El servidor VMDLIND01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:26:14 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:26:14 : INFO: Se prepara para migrar el servidor CDPRPR01
+07/23/2014 13:26:16 : INFO: Levantamos la información y el servidor CDPRPR01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:26:16 : INFO: Se procederá a realizar el movimiento del servidor CDPRPR01
+07/23/2014 13:26:37 : INFO: El servidor CDPRPR01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:26:37 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:26:37 : INFO: Se prepara para migrar el servidor Dns-corp-dat-02
+07/23/2014 13:26:39 : INFO: Levantamos la información y el servidor Dns-corp-dat-02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:26:39 : INFO: Se procederá a realizar el movimiento del servidor Dns-corp-dat-02
+07/23/2014 13:27:01 : INFO: El servidor Dns-corp-dat-02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:27:01 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:27:01 : INFO: Se prepara para migrar el servidor VMDLINP01
+07/23/2014 13:27:04 : INFO: Levantamos la información y el servidor VMDLINP01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:27:04 : INFO: Se procederá a realizar el movimiento del servidor VMDLINP01
+07/23/2014 13:27:22 : INFO: El servidor VMDLINP01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:27:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:27:22 : INFO: Se prepara para migrar el servidor Dns-corp-nav-01
+07/23/2014 13:27:24 : INFO: Levantamos la información y el servidor Dns-corp-nav-01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:27:24 : INFO: Se procederá a realizar el movimiento del servidor Dns-corp-nav-01
+07/23/2014 13:27:44 : INFO: El servidor Dns-corp-nav-01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:27:44 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:27:44 : INFO: Se prepara para migrar el servidor Dns-corp-nav-02
+07/23/2014 13:27:46 : INFO: Levantamos la información y el servidor Dns-corp-nav-02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:27:46 : INFO: Se procederá a realizar el movimiento del servidor Dns-corp-nav-02
+07/23/2014 13:28:05 : INFO: El servidor Dns-corp-nav-02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:28:05 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:28:05 : INFO: Se prepara para migrar el servidor Dns-corp-master-01
+07/23/2014 13:28:07 : INFO: Levantamos la información y el servidor Dns-corp-master-01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:28:07 : INFO: Se procederá a realizar el movimiento del servidor Dns-corp-master-01
+07/23/2014 13:28:24 : INFO: El servidor Dns-corp-master-01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:28:24 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:28:24 : INFO: Se prepara para migrar el servidor VMLCONWEB01
+07/23/2014 13:28:27 : INFO: Levantamos la información y el servidor VMLCONWEB01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:28:27 : INFO: Se procederá a realizar el movimiento del servidor VMLCONWEB01
+07/23/2014 13:28:46 : INFO: El servidor VMLCONWEB01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:28:46 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:28:46 : INFO: Se prepara para migrar el servidor GBELINVQA01
+07/23/2014 13:28:48 : INFO: Levantamos la información y el servidor GBELINVQA01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:28:48 : INFO: Se procederá a realizar el movimiento del servidor GBELINVQA01
+07/23/2014 13:29:09 : INFO: El servidor GBELINVQA01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:29:09 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:29:09 : INFO: Se prepara para migrar el servidor SGT_PROXY
+07/23/2014 13:29:11 : INFO: Levantamos la información y el servidor SGT_PROXY se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:29:11 : INFO: Se procederá a realizar el movimiento del servidor SGT_PROXY
+07/23/2014 13:29:31 : INFO: El servidor SGT_PROXY fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:29:31 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:29:31 : INFO: Se prepara para migrar el servidor VMLGOEPRO_01
+07/23/2014 13:29:33 : INFO: Levantamos la información y el servidor VMLGOEPRO_01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:29:33 : INFO: Se procederá a realizar el movimiento del servidor VMLGOEPRO_01
+07/23/2014 13:29:55 : INFO: El servidor VMLGOEPRO_01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:29:55 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:29:55 : INFO: Se prepara para migrar el servidor RETALIND02
+07/23/2014 13:29:58 : INFO: Levantamos la información y el servidor RETALIND02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:29:58 : INFO: Se procederá a realizar el movimiento del servidor RETALIND02
+07/23/2014 13:30:20 : INFO: El servidor RETALIND02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:30:20 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:30:20 : INFO: Se prepara para migrar el servidor PGPP02
+07/23/2014 13:30:22 : INFO: Levantamos la información y el servidor PGPP02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:30:22 : INFO: Se procederá a realizar el movimiento del servidor PGPP02
+07/23/2014 13:30:33 : ERROR: El servidor PGPP02 no fue migrado satisfactoriamente al ESXi esxicnt03, REVISAR POR FAVOR.
+07/23/2014 13:30:33 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:30:33 : INFO: Se prepara para migrar el servidor PGPP01
+07/23/2014 13:30:36 : INFO: Levantamos la información y el servidor PGPP01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:30:36 : INFO: Se procederá a realizar el movimiento del servidor PGPP01
+07/23/2014 13:30:47 : ERROR: El servidor PGPP01 no fue migrado satisfactoriamente al ESXi esxicnt03, REVISAR POR FAVOR.
+07/23/2014 13:30:47 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:30:47 : INFO: Se prepara para migrar el servidor PGPP04
+07/23/2014 13:30:49 : INFO: Levantamos la información y el servidor PGPP04 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:30:49 : INFO: Se procederá a realizar el movimiento del servidor PGPP04
+07/23/2014 13:31:11 : INFO: El servidor PGPP04 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:31:11 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:31:11 : INFO: Se prepara para migrar el servidor PGPP03
+07/23/2014 13:31:14 : INFO: Levantamos la información y el servidor PGPP03 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:31:14 : INFO: Se procederá a realizar el movimiento del servidor PGPP03
+07/23/2014 13:31:36 : INFO: El servidor PGPP03 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:31:36 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:31:36 : INFO: Se prepara para migrar el servidor VMSACASKM
+07/23/2014 13:31:38 : INFO: Levantamos la información y el servidor VMSACASKM se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:31:38 : INFO: Se procederá a realizar el movimiento del servidor VMSACASKM
+07/23/2014 13:31:58 : INFO: El servidor VMSACASKM fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:31:58 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:31:58 : INFO: Se prepara para migrar el servidor SGT-02
+07/23/2014 13:32:00 : INFO: Levantamos la información y el servidor SGT-02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:32:00 : INFO: Se procederá a realizar el movimiento del servidor SGT-02
+07/23/2014 13:32:20 : INFO: El servidor SGT-02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:32:20 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:32:20 : INFO: Se prepara para migrar el servidor CDBDPR01
+07/23/2014 13:32:23 : INFO: Levantamos la información y el servidor CDBDPR01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:32:23 : INFO: Se procederá a realizar el movimiento del servidor CDBDPR01
+07/23/2014 13:32:49 : INFO: El servidor CDBDPR01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:32:49 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:32:49 : INFO: Se prepara para migrar el servidor CDBDPR02
+07/23/2014 13:32:51 : INFO: Levantamos la información y el servidor CDBDPR02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:32:51 : INFO: Se procederá a realizar el movimiento del servidor CDBDPR02
+07/23/2014 13:33:20 : INFO: El servidor CDBDPR02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:33:20 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:33:20 : INFO: Se prepara para migrar el servidor PGPQ01
+07/23/2014 13:33:23 : INFO: Levantamos la información y el servidor PGPQ01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:33:23 : INFO: Se procederá a realizar el movimiento del servidor PGPQ01
+07/23/2014 13:33:45 : INFO: El servidor PGPQ01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:33:45 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:33:45 : INFO: Se prepara para migrar el servidor PGPQ02
+07/23/2014 13:33:47 : INFO: Levantamos la información y el servidor PGPQ02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:33:47 : INFO: Se procederá a realizar el movimiento del servidor PGPQ02
+07/23/2014 13:34:08 : INFO: El servidor PGPQ02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:34:08 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:34:08 : INFO: Se prepara para migrar el servidor VMSACASCORE
+07/23/2014 13:34:11 : INFO: Levantamos la información y el servidor VMSACASCORE se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:34:11 : INFO: Se procederá a realizar el movimiento del servidor VMSACASCORE
+07/23/2014 13:34:31 : INFO: El servidor VMSACASCORE fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:34:31 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:34:31 : INFO: Se prepara para migrar el servidor VMSACASBPM
+07/23/2014 13:34:33 : INFO: Levantamos la información y el servidor VMSACASBPM se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:34:33 : INFO: Se procederá a realizar el movimiento del servidor VMSACASBPM
+07/23/2014 13:34:54 : INFO: El servidor VMSACASBPM fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:34:54 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:34:54 : INFO: Se prepara para migrar el servidor LDAP-SLAVE-4-PRO
+07/23/2014 13:34:56 : INFO: Levantamos la información y el servidor LDAP-SLAVE-4-PRO se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:34:56 : INFO: Se procederá a realizar el movimiento del servidor LDAP-SLAVE-4-PRO
+07/23/2014 13:35:21 : INFO: El servidor LDAP-SLAVE-4-PRO fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:35:21 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:35:21 : INFO: Se prepara para migrar el servidor RETALINP08
+07/23/2014 13:35:23 : INFO: Levantamos la información y el servidor RETALINP08 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:35:23 : INFO: Se procederá a realizar el movimiento del servidor RETALINP08
+07/23/2014 13:35:47 : INFO: El servidor RETALINP08 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:35:47 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:35:47 : INFO: Se prepara para migrar el servidor SGT-01
+07/23/2014 13:35:49 : INFO: Levantamos la información y el servidor SGT-01 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:35:49 : INFO: Se procederá a realizar el movimiento del servidor SGT-01
+07/23/2014 13:36:13 : INFO: El servidor SGT-01 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:36:13 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:36:13 : INFO: Se prepara para migrar el servidor VMSACASBD
+07/23/2014 13:36:16 : INFO: Levantamos la información y el servidor VMSACASBD se encuentra en el esxi esxicnt07.cantv.com.ve
+07/23/2014 13:36:16 : INFO: Se procederá a realizar el movimiento del servidor VMSACASBD
+07/23/2014 13:36:27 : ERROR: El servidor VMSACASBD no fue migrado satisfactoriamente al ESXi esxicnt03, REVISAR POR FAVOR.
+07/23/2014 13:36:27 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:36:27 : INFO: Se prepara para migrar el servidor PAFWP02
+07/23/2014 13:36:29 : INFO: Levantamos la información y el servidor PAFWP02 se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:36:29 : INFO: Se procederá a realizar el movimiento del servidor PAFWP02
+07/23/2014 13:36:47 : INFO: El servidor PAFWP02 fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:36:47 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:36:47 : INFO: Se prepara para migrar el servidor POPIMAP-1-PRO
+07/23/2014 13:36:49 : INFO: Levantamos la información y el servidor POPIMAP-1-PRO se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:36:49 : INFO: Se procederá a realizar el movimiento del servidor POPIMAP-1-PRO
+07/23/2014 13:37:11 : INFO: El servidor POPIMAP-1-PRO fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:37:11 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:37:11 : INFO: Se prepara para migrar el servidor MICAPPL
+07/23/2014 13:37:13 : INFO: Levantamos la información y el servidor MICAPPL se encuentra en el esxi esxicnt02.cantv.com.ve
+07/23/2014 13:37:13 : INFO: Se procederá a realizar el movimiento del servidor MICAPPL
+07/23/2014 13:41:40 : INFO: El servidor MICAPPL fue migrado satisfactoriamente al ESXi esxicnt03
+07/23/2014 13:41:40 : -------------------------------------------------------------------------------------------------------
+07/23/2014 13:41:40 : INFO: ----------- Se finaliza el proceso de migracion automatico al servidor esxicnt03. -------------
+07/23/2014 16:49:23 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt02. -------------
+07/23/2014 16:49:24 : -------------------------------------------------------------------------------------------------------
+07/23/2014 16:49:24 : INFO: Se prepara para migrar el servidor SNPACDP1
+07/23/2014 16:49:32 : INFO: Levantamos la información y el servidor SNPACDP1 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 16:49:32 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP1
+07/23/2014 16:50:00 : INFO: El servidor SNPACDP1 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 16:50:00 : -------------------------------------------------------------------------------------------------------
+07/23/2014 16:50:00 : INFO: Se prepara para migrar el servidor SNPACDP2
+07/23/2014 16:50:03 : INFO: Levantamos la información y el servidor SNPACDP2 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 16:50:03 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP2
+07/23/2014 16:50:25 : INFO: El servidor SNPACDP2 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 16:50:25 : -------------------------------------------------------------------------------------------------------
+07/23/2014 16:50:25 : INFO: Se prepara para migrar el servidor SNPACDP3
+07/23/2014 16:50:28 : INFO: Levantamos la información y el servidor SNPACDP3 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 16:50:28 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP3
+07/23/2014 16:50:57 : INFO: El servidor SNPACDP3 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 16:50:57 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:03:30 : INFO: Se prepara para migrar el servidor SNPACDP4
+07/23/2014 17:03:32 : INFO: Levantamos la información y el servidor SNPACDP4 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 17:03:32 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP4
+07/23/2014 17:04:26 : INFO: El servidor SNPACDP4 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:04:26 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:04:26 : INFO: Se prepara para migrar el servidor SNPACDP5
+07/23/2014 17:04:28 : INFO: Levantamos la información y el servidor SNPACDP5 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 17:04:28 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP5
+07/23/2014 17:06:42 : INFO: El servidor SNPACDP5 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:06:42 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:06:42 : INFO: Se prepara para migrar el servidor SNPACDP6
+07/23/2014 17:06:44 : INFO: Levantamos la información y el servidor SNPACDP6 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 17:06:44 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP6
+07/23/2014 17:08:18 : INFO: El servidor SNPACDP6 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:08:18 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:11:06 : INFO: Se prepara para migrar el servidor SNPACDP7
+07/23/2014 17:11:08 : INFO: Levantamos la información y el servidor SNPACDP7 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 17:11:08 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP7
+07/23/2014 17:12:07 : INFO: El servidor SNPACDP7 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:12:08 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:12:08 : INFO: Se prepara para migrar el servidor SNPACDP8
+07/23/2014 17:12:10 : INFO: Levantamos la información y el servidor SNPACDP8 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 17:12:10 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP8
+07/23/2014 17:12:36 : INFO: El servidor SNPACDP8 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:12:36 : -------------------------------------------------------------------------------------------------------
+07/23/2014 17:12:36 : INFO: Se prepara para migrar el servidor SNPACDP9
+07/23/2014 17:12:38 : INFO: Levantamos la información y el servidor SNPACDP9 se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 17:12:38 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP9
+07/23/2014 17:13:35 : INFO: El servidor SNPACDP9 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 17:13:35 : -------------------------------------------------------------------------------------------------------
+07/23/2014 18:50:46 : INFO: Se prepara para migrar el servidor SNPACDP10
+07/23/2014 18:50:49 : INFO: Levantamos la información y el servidor SNPACDP10 se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 18:50:49 : INFO: Se procederá a realizar el movimiento del servidor SNPACDP10
+07/23/2014 18:51:15 : INFO: El servidor SNPACDP10 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 18:51:15 : -------------------------------------------------------------------------------------------------------
+07/23/2014 18:51:15 : INFO: Se prepara para migrar el servidor SNPACDT1
+07/23/2014 18:51:17 : INFO: Levantamos la información y el servidor SNPACDT1 se encuentra en el esxi esxicnt07.cantv.com.ve
+07/23/2014 18:51:17 : INFO: Se procederá a realizar el movimiento del servidor SNPACDT1
+07/23/2014 18:51:52 : INFO: El servidor SNPACDT1 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 18:51:52 : -------------------------------------------------------------------------------------------------------
+07/23/2014 18:51:52 : INFO: Se prepara para migrar el servidor SNPACDT2
+07/23/2014 18:51:54 : INFO: Levantamos la información y el servidor SNPACDT2 se encuentra en el esxi esxicnt07.cantv.com.ve
+07/23/2014 18:51:54 : INFO: Se procederá a realizar el movimiento del servidor SNPACDT2
+07/23/2014 18:52:28 : INFO: El servidor SNPACDT2 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 18:52:28 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:00:08 : INFO: Se prepara para migrar el servidor SNPBLCD1
+07/23/2014 19:00:11 : INFO: Levantamos la información y el servidor SNPBLCD1 se encuentra en el esxi esxicnt08.cantv.com.ve
+07/23/2014 19:00:11 : INFO: Se procederá a realizar el movimiento del servidor SNPBLCD1
+07/23/2014 19:00:46 : INFO: El servidor SNPBLCD1 fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:00:46 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:00:46 : INFO: ----------- Se finaliza el proceso de migracion automatico al servidor esxicnt02. -------------
+07/23/2014 19:06:05 : INFO: ------------ Se da inicio al proceso de migracion automatico al servidor esxicnt02. -------------
+07/23/2014 19:06:05 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:06:05 : INFO: Se prepara para migrar el servidor correoweb-1-cali
+07/23/2014 19:06:07 : INFO: Levantamos la información y el servidor correoweb-1-cali se encuentra en el esxi esxicnt06.cantv.com.ve
+07/23/2014 19:06:07 : INFO: Se procederá a realizar el movimiento del servidor correoweb-1-cali
+07/23/2014 19:07:07 : INFO: El servidor correoweb-1-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:07:07 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:07:07 : INFO: Se prepara para migrar el servidor correoweb-2-cali
+07/23/2014 19:07:09 : INFO: Levantamos la información y el servidor correoweb-2-cali se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 19:07:09 : INFO: Se procederá a realizar el movimiento del servidor correoweb-2-cali
+07/23/2014 19:07:27 : INFO: El servidor correoweb-2-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:07:27 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:07:27 : INFO: Se prepara para migrar el servidor correoweb-3-cali
+07/23/2014 19:07:29 : INFO: Levantamos la información y el servidor correoweb-3-cali se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 19:07:29 : INFO: Se procederá a realizar el movimiento del servidor correoweb-3-cali
+07/23/2014 19:07:48 : INFO: El servidor correoweb-3-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:07:48 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:07:48 : INFO: Se prepara para migrar el servidor pda-1-cali
+07/23/2014 19:07:50 : INFO: Levantamos la información y el servidor pda-1-cali se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 19:07:50 : INFO: Se procederá a realizar el movimiento del servidor pda-1-cali
+07/23/2014 19:08:10 : INFO: El servidor pda-1-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:08:10 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:08:10 : INFO: Se prepara para migrar el servidor pda-2-cali
+07/23/2014 19:08:12 : INFO: Levantamos la información y el servidor pda-2-cali se encuentra en el esxi esxicnt04.cantv.com.ve
+07/23/2014 19:08:12 : INFO: Se procederá a realizar el movimiento del servidor pda-2-cali
+07/23/2014 19:08:29 : INFO: El servidor pda-2-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:08:29 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:08:29 : INFO: Se prepara para migrar el servidor ldap-slave-1-cali
+07/23/2014 19:08:32 : INFO: Levantamos la información y el servidor ldap-slave-1-cali se encuentra en el esxi esxicnt06.cantv.com.ve
+07/23/2014 19:08:32 : INFO: Se procederá a realizar el movimiento del servidor ldap-slave-1-cali
+07/23/2014 19:08:54 : INFO: El servidor ldap-slave-1-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:08:54 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:08:54 : INFO: Se prepara para migrar el servidor ldap-slave-2-cali
+07/23/2014 19:08:57 : INFO: Levantamos la información y el servidor ldap-slave-2-cali se encuentra en el esxi esxicnt05.cantv.com.ve
+07/23/2014 19:08:57 : INFO: Se procederá a realizar el movimiento del servidor ldap-slave-2-cali
+07/23/2014 19:09:17 : INFO: El servidor ldap-slave-2-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:09:17 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:09:17 : INFO: Se prepara para migrar el servidor mail-1-cali
+07/23/2014 19:09:19 : INFO: Levantamos la información y el servidor mail-1-cali se encuentra en el esxi 
+07/23/2014 19:09:19 : INFO: Se procederá a realizar el movimiento del servidor mail-1-cali
+07/23/2014 19:09:22 : ERROR: El servidor mail-1-cali no fue migrado satisfactoriamente al ESXi esxicnt02, REVISAR POR FAVOR.
+07/23/2014 19:09:22 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:09:22 : INFO: Se prepara para migrar el servidor mail-2-cali
+07/23/2014 19:09:24 : INFO: Levantamos la información y el servidor mail-2-cali se encuentra en el esxi 
+07/23/2014 19:09:24 : INFO: Se procederá a realizar el movimiento del servidor mail-2-cali
+07/23/2014 19:09:27 : ERROR: El servidor mail-2-cali no fue migrado satisfactoriamente al ESXi esxicnt02, REVISAR POR FAVOR.
+07/23/2014 19:09:27 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:09:27 : INFO: Se prepara para migrar el servidor ldap-master-1-cali
+07/23/2014 19:09:30 : INFO: Levantamos la información y el servidor ldap-master-1-cali se encuentra en el esxi esxicnt08.cantv.com.ve
+07/23/2014 19:09:30 : INFO: Se procederá a realizar el movimiento del servidor ldap-master-1-cali
+07/23/2014 19:09:56 : INFO: El servidor ldap-master-1-cali fue migrado satisfactoriamente al ESXi esxicnt02
+07/23/2014 19:09:56 : -------------------------------------------------------------------------------------------------------
+07/23/2014 19:09:56 : INFO: ----------- Se finaliza el proceso de migracion automatico al servidor esxicnt02. -------------

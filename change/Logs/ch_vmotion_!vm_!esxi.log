@@ -1,0 +1,9 @@
+06/20/2014 11:07:55 : STATUS: El resultado de la verificacion de la conexion de la tarjeta # 1 es True
+06/20/2014 11:07:56 : STATUS: El resultado de la verificacion de la conexion de la tarjeta # 2 es True
+06/20/2014 11:08:52 : INFO: Se movio el servidor WMonitor de la ESXi  hacia la ESXi esxicnt02.cantv.com.ve
+06/20/2014 11:08:55 : ERROR: Se determino que la vNic # 1 identificada como Network adapter 1 del servidor WMonitor está desconectada
+06/20/2014 11:08:55 : INFO: La tarjeta anteriormente estaba conectada, se procedera a conectarla para dejarla como estaba antes del vmotion.
+06/20/2014 11:09:02 : CHK: La re-conexion de la tarjeta fue exitosa.
+06/20/2014 11:09:03 : PASS: Se verifico que la vNic # 2 identificada como Network adapter 2 del servidor WMonitor se encuentra conectada.
+06/20/2014 11:38:04 : INFO: --------------------------------- Se aprobó vmotion del servidor 1 hacia el esxi .
+06/27/2014 07:45:21 : INFO: --------------------------------- Se aprobó vmotion del servidor 1 hacia el esxi .

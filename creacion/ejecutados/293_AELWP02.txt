@@ -1,0 +1,20 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,AELWP02
+hostname_o,AELWT02
+Nombre y Apellido,Oswaldo Perez
+cpu,4
+vRam,4096
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,proyecto de averias en linea
+emailSupervisor,eistur01
+emailTecnico,opere1
+Función,Web + App + BD
+Resource Pool,APRD
+Remedy,000000004353265
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk,26214400,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad

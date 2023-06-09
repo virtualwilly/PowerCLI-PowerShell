@@ -1,0 +1,25 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,COREMC01-CNT-PROD
+Nombre y Apellido,Jesus Gordillo
+cpu,4
+Arquitectura,64
+vRam,8192
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,sist. de autent. por matriz de códigos
+emailSupervisor,eistur01
+emailTecnico,jgordi01
+so,debian6_64Guest
+Función,App + Base de Datos
+Resource Pool,APRD
+Remedy,4382540
+tipo,nuevo
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk1,31457280,Thick
+vdisk2,52428800,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
+Nota4,CSTS-Adecuacion justifico la necesidad de un disco mayor a 20 gb. de la siguiente forma: solicitud del cliente
+Nota5,CSTS-Adecuacion anexa correo del Coordinador de CCYDP aprobando un espacio mayor a 25 Gb.

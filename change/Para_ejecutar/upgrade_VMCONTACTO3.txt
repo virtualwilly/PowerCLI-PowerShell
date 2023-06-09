@@ -1,0 +1,10 @@
+Columna1,Columna2,Columna3,Columna4
+servidor,VMCONTACTO3
+vCpu,4
+vRam,12
+ndisk,0
+vdisk,0
+vnic,0
+Remedy,Emergencia3
+emailTecnico,mdelga
+Tipo,upgrade

@@ -1,0 +1,23 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,PCCZCLD1
+hostname_o,PCCBLCD1
+Nombre y Apellido,Juan Barreto
+cpu,4
+vRam,8192
+Ambiente,Desarrollo
+Repositorio,CSTS-Adecuacion
+Servicio,servidor de aplicacion zeo
+emailSupervisor,eistur01
+emailTecnico,jbarre07
+Función,Aplicaciones
+Resource Pool,ANoPRD
+Remedy,4358237
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk,10485760,Thin
+vdisk,20971520,Thin
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
+Nota4,CSTS-Adecuacion justifico la necesidad de más de 3 discos de la siguiente forma: Por solicitud del proveedor de la aplicacion ZEO

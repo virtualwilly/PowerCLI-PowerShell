@@ -1,0 +1,22 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,SNPPREP3
+hostname_o,SNPACDP9
+Nombre y Apellido,Oswaldo Perez
+cpu,8
+vRam,16384
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,migracion servicio 113 122 151
+emailSupervisor,eistur01
+emailTecnico,opere1
+Función,App + Base de Datos
+Resource Pool,APRD
+Remedy,000000004256195
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN23
+Network Adapter 3,VLAN2004
+vdisk,47185920,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
+Nota4,CSTS-Adecuacion anexa correo del Coordinador de CCYDP o del Gerente aprobando un espacio mayor a 25 Gb.

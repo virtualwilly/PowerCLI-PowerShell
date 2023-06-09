@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,W2K3CTXDC02
+Servicio,Licencias terminal services
+Remedy,
+Tecnico,William Tellez
+email,wtellez
+Ambiente,Produccion
+Funcion,Infraestructura
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,epere6

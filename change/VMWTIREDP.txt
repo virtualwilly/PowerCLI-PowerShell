@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_origen,VMWTIRED01
+hostname_clon,VMWTIREDP
+Nombre y Apellido,Oswaldo Perez
+vcpu,0
+arq,0
+vram,0
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,gestiones administrativas sap
+emailsuper,mdelga
+correo,opere1
+Funcion,Web + App + BD
+Resource Pool,APRD
+Remedy,000000004526344
+tipo,clon_igual
+fuente,Consolidación de servidores
+template,0
+cluster,0
+Network Adapter,0
+vdisk,0

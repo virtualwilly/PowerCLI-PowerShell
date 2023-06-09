@@ -1,0 +1,45 @@
+Comandos power cli.
+
+* The Set-ExecutionPolicy cmdlet enables you to determine which Windows PowerShell scripts (if any) will be allowed to run on your computer. Windows PowerShell has four different execution policies:
+
+Set-ExecutionPolicy Restricted
+Set-ExecutionPolicy AllSigned
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Unrestricted
+
+* Para conectarse al vcenter
+
+Connect-VIServer -Server ip -Protocol https -User Administrator  -Password pass01
+Connect-VIServer ip -User Admin -Password Pass01
+Connect-VIServer ip -Session $srv.SessionId
+
+* para desconectarse del vcenter
+
+Disconnect-VIServer -Server [ip]
+
+* obtiene los vSwitch creado en un host específico.
+
+get-virtualswitch -vmhost esxicnt01.cantv.com.ve
+
+* obtiene los host definidos.
+
+get-vmhost
+
+* obtiene los nombre de los servidores virtuales.
+
+Get-VM | Select-Object Name
+
+* Obtiene información general de los servidores virtuales tabulado.
+
+Get-VM | Select-Object Name, MemoryMB , NumCpu, MemReservation, NumVirtualDisks | format-table
+
+param($p_host)
+get-vmhosthba -vmhost $p_host
+get-vmhostnetwork -vmhost $p_host
+Get-VMHostNetworkAdapter -vmhost $p_host
+get-vmhostntpserver -vmhost $p_host
+get-vmhostservice -vmhost $p_host
+get-vmhostsnmp -vmhost $p_host
+get-vmhoststorage -vmhost $p_host | select -expandproperty scsilun
+Get-VMHostSysLogServer -VMHost $p_host
+

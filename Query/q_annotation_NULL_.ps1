@@ -1,0 +1,1 @@
+get-vm | Get-Annotation | where {!$_.value -and $_.name -eq "emailTecnico"} | select AnnotatedEntity

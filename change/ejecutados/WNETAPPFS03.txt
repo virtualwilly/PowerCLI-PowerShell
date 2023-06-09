@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,WNETAPPFS03
+Servicio,
+Remedy,
+Tecnico,Nelson Rocca
+email,nrocca01
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,ops-seg;admalma

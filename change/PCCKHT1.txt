@@ -1,0 +1,38 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,PCCKHT1
+Nombre y Apellido,Sheyla Marchan
+vcpu,0
+arq,0
+vram,0
+Ambiente,Calidad
+Repositorio,CSTS-Adecuacion
+Servicio,servidor cache web ambiente calidad
+emailsuper,mdelga
+correo,smarch01
+Función,Web
+Resource Pool,ONoPRD
+Remedy,4534016
+tipo,template
+template,Template_Debian7
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0
+Columna1,Columna2,Columna3,Columna4
+hostname,PCCKHT1
+Nombre y Apellido,Sheyla Marchan
+vcpu,1
+arq,0
+vram,1
+Ambiente,Calidad
+Repositorio,CSTS-Adecuacion
+Servicio,servidor cache web ambiente calidad
+emailsuper,mdelga
+correo,smarch01
+FunciÃ³n,Web
+Resource Pool,ONoPRD
+Remedy,4534016
+tipo,template
+template,Template_Debian7
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

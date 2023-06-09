@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,VMWECERBD04
+Nombre y Apellido,Oswaldo Perez
+vcpu,1
+arq,0
+vram,1
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,desarrollo certus
+emailsuper,mdelga
+correo,opere1
+Función,Base de Datos
+Resource Pool,APRD
+Remedy,4425323
+tipo,template
+template,Template_w2k8Std_64R2
+cluster,ClusterUCS01
+Network Adapter,0
+vdisk,0

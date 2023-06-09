@@ -1,0 +1,25 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,LOGS01
+Nombre y Apellido,Juan Barreto
+cpu,2
+Arquitectura,64
+vRam,8192
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,logs centralizados
+emailSupervisor,eistur01
+emailTecnico,jbarre07
+Función,Gestion
+Resource Pool,APRD
+Remedy,4388939
+tipo,nuevo
+so,rhel6_64Guest
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk1,31457280,Thin
+vdisk2,104857600,Thin
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
+Nota4,CSTS-Adecuacion justifico la necesidad de un disco mayor a 20 gb. de la siguiente forma: requerido por la aplicacion para /var
+Nota5,CSTS-Adecuacion anexa correo del Coordinador de CCYDP aprobando un espacio mayor a 25 Gb.

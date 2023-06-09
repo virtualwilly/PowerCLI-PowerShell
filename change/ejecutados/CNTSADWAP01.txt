@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,CNTSADWAP01
+Servicio,
+Remedy,
+Tecnico,William Tellez
+email,wtellez
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,goccr2

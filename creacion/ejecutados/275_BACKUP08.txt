@@ -1,0 +1,22 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,BACKUP08
+Nombre y Apellido,Juan Barreto
+cpu,4
+Arquitectura,64
+vRam,1024
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,master backup veritas
+emailSupervisor,eistur01
+emailTecnico,jbarre07
+so,rhel6_64Guest
+Función,Infraestructura
+Resource Pool,APRD
+Remedy,4250935
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN701
+Network Adapter 3,VLAN204
+vdisk1,283115520,Thin
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion justifico la necesidad de un disco mayor a 20 gb. de la siguiente forma: El proveedor indica que es necesario para los backup temporales en disco el tamaño especificado.

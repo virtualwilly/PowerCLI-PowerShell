@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,BACKUPHOST
+Nombre y Apellido,Oswaldo Perez
+cpu,1
+Arquitectura,64
+vRam,2048
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,aplicacion veritas
+emailSupervisor,eistur01
+emailTecnico,opere1
+so,windows7Server64Guest
+Función,Aplicaciones
+Resource Pool,APRD
+Remedy,000000004354988
+tipo,nuevo
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN701
+vdisk1,41943040,Thin
+vdisk2,26214400,Thin
+Nota1,CSTS-Adecuacion justifico la necesidad de un disco mayor a 20 gb. de la siguiente forma: MINIMO RECOMENDADO

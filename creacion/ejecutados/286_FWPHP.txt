@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,FWPHP
+hostname_o,WEBPHPDEV
+Nombre y Apellido,Jose Vidal
+cpu,1
+vRam,4096
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,coordinación de sistemas software libre
+emailSupervisor,eistur01
+emailTecnico,jvidal01
+Función,Web + App + BD
+Resource Pool,APRD
+Remedy,4288380
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN204
+vdisk,52428800,Thick
+Nota1,CSTS-Adecuacion anexa correo del Coordinador de CCYDP o del Gerente aprobando un espacio mayor a 25 Gb.

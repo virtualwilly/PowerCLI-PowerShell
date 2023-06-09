@@ -1,0 +1,23 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,AELPT01
+Nombre y Apellido,Jose Vidal
+cpu,4
+Arquitectura,64
+vRam,4096
+Ambiente,Desarrollo
+Repositorio,CSTS-Adecuacion
+Servicio,portal web de averias en linea
+emailSupervisor,eistur01
+emailTecnico,jvidal01
+so,debian6_64Guest
+Función,Web
+Resource Pool,ANoPRD
+Remedy,4301361
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+vdisk1,15728640,Thin
+vdisk2,20971520,Thin
+vdisk3,10485760,Thin
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.

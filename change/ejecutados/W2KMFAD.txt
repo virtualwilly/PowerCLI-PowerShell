@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,W2KMFAD
+Servicio,Controlador dominio ctxcantv.com
+Remedy,
+Tecnico,Mayra Murcia
+email,mmurci01
+Ambiente,Produccion
+Funcion,Infraestructura
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,sopmid;adminbasis;supervisores_CIC;jcacer

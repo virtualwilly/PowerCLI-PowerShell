@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_origen,SNPACDP1
+hostname_clon,SNPACDP03
+Nombre y Apellido,Oswaldo Perez
+vcpu,0
+arq,0
+vram,0
+Ambiente,Produccion
+Repositorio,CSTS-Windows
+Servicio,servicio 113 151 122
+emailsuper,epere6
+correo,opere1
+Funcion,Web + App + BD
+Resource Pool,OPRD
+Remedy,000000004486136
+tipo,clon_igual
+fuente,Consolidación de servidores
+template,0
+cluster,0
+Network Adapter,0
+vdisk,0

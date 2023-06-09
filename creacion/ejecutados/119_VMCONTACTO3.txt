@@ -1,0 +1,19 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,VMCONTACTO3
+hostname_o,WEBPHP
+Nombre y Apellido,Jesus Gordillo
+cpu,1
+vRam,4096
+Ambiente,Produccion
+Repositorio,CSTS-Windows
+Servicio,contactodiario
+emailSupervisor,eistur01
+emailTecnico,jgordi01
+Función,Web + Base de Datos
+Resource Pool,APRD
+Remedy,4434795
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN204
+vdisk,52428800,Thick
+Nota1,CSTS-Adecuacion analizó que realmente se necesita más espacio del recomendado

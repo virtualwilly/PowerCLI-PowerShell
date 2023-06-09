@@ -1,0 +1,10 @@
+correoweb-1-cali
+correoweb-2-cali
+correoweb-3-cali
+pda-1-cali
+pda-2-cali
+ldap-slave-1-cali
+ldap-slave-2-cali
+mail-1-cali
+mail-2-cali
+ldap-master-1-cali

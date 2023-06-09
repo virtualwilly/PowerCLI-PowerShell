@@ -1,0 +1,10 @@
+variable,Valor
+Servidor,MonitorCSTS
+Servicio,Monitoreo servidores csts-windows
+Remedy,
+Tecnico,William Tellez
+email,wtellez
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Windows
+Supervisor,epere6

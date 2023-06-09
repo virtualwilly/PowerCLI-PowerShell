@@ -1,0 +1,10 @@
+variable,Valor
+Servidor,CDDRPR01
+Servicio,Centro de contacto
+Remedy,4368874
+Tecnico,Humberto Marcano
+email,hmarca01
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Unix
+Supervisor,kfern2

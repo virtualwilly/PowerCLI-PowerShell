@@ -1,0 +1,20 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_f,VMCONTACTO2
+hostname_o,WEBPHP
+Nombre y Apellido,Jesus Gordillo
+cpu,1
+vRam,1024
+Ambiente,Produccion
+Repositorio,CSTS-Windows
+Servicio,contacto diario
+emailSupervisor,eistur01
+emailTecnico,jgordi01
+Función,Web
+Resource Pool,APRD
+Remedy,4434784
+tipo,clon
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN204
+vdisk,52428800,Thin
+Nota1,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
+Nota2,CSTS-Adecuacion analizó que realmente se necesita más espacio del recomendado

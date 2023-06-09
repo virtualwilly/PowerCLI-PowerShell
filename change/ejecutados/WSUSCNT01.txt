@@ -1,0 +1,11 @@
+variable,Valor
+Servidor,WSUSCNT01
+Servicio,Distribuacion automatica de parches
+Remedy,
+Tecnico,William Tellez
+email,wtellez
+Ambiente,Produccion
+Funcion,Aplicaciones
+Contenedor,CSTS-Windows
+Supervisor,epere6
+Funcionales,suopca;ops-seg

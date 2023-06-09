@@ -1,0 +1,1 @@
+get-vm | get-member -MemberType property

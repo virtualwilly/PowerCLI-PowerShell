@@ -1,0 +1,21 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_origen,VMLHCM01
+hostname_clon,VMLPORTAL02
+Nombre y Apellido,Oswaldo Perez
+vcpu,0
+arq,0
+vram,0
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,portal de gestion humana
+emailsuper,mdelga
+correo,opere1
+Función,Web + App + BD
+Resource Pool,APRD
+Remedy,4463205
+tipo,clon_igual
+fuente,Proyecto No CCYDP
+template,0
+cluster,0
+Network Adapter,0
+vdisk,0

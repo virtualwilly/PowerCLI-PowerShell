@@ -1,0 +1,24 @@
+Columna1,Columna2,Columna3,Columna4
+hostname_origen,VMLHCM01
+hostname_clon,VMLENCUESTA
+Nombre y Apellido,Oswaldo Perez
+vCpu,4
+arq,0
+vRam,8192
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,encuesta gestion humana
+emailsuper,Seleccionar
+correo,opere1
+Función,Web + App + BD
+Resource Pool,APRD
+Remedy,4463229
+tipo,clon_mod
+fuente,Proyecto No CCYDP
+template,0
+cluster,0
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN15
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.

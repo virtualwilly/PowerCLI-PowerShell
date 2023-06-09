@@ -1,0 +1,25 @@
+Columna1,Columna2,Columna3,Columna4
+hostname,SACASMP01
+Nombre y Apellido,Marbel Delgado
+cpu,4
+Arquitectura,64
+vRam,8192
+Ambiente,Produccion
+Repositorio,CSTS-Adecuacion
+Servicio,base de datos sacas
+emailSupervisor,eistur01
+emailTecnico,mdelga
+so,centos64Guest
+Función,Base de Datos
+Resource Pool,APRD
+Remedy,4289581
+tipo,nuevo
+Network Adapter 1,VLAN204
+Network Adapter 2,VLAN204
+vdisk1,20971520,Thick
+vdisk2,14680064,Thick
+vdisk3,14680064,Thick
+vdisk4,14680064,Thick
+Nota1,CSTS-Adecuacion informa que el aplicativo aprovechara mas de un vCpu.
+Nota2,CSTS-Adecuacion informa que los vCpu tendra periodos prolongado de alta actividad
+Nota3,CSTS-Adecuacion necesita mas de la memoria de vRam recomendada para la funcion del servidor.
