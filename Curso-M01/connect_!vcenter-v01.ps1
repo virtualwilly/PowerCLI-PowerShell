@@ -1,4 +1,7 @@
-#Versión # 01:
-#
+#Versión # 01: Parámetros en PowerShell
+#Autodocumentación
+#Parámetro al script.
 
-Connect-VIServer 
+param($DNSvCenter)
+
+Connect-VIServer $DNSvcenter
